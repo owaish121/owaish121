@@ -11,8 +11,6 @@
 - **Visualization:** Matplotlib, Seaborn, PowerBI
 - **Tools:** VS code, Jupyter Notebook, Git/GitHub, Excel
 
-### 📈 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=owaish121&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 - LinkedIn - https://www.linkedin.com/in/mohammad-owaish
