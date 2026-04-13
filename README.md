@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammad Owaish! 👋
 
 ### 👨‍💻 About Me
-- 🎓 I am a Fresh Graduate in **Data Science**.
+- 🎓 I am a Fresh Graduate in **BCA** with **DATA SCIENCE**.
 - 🔍 I love finding patterns in data and building predictive models.
 - 🌱 Currently learning **Deep Learning** and **Flask**.
 - 💬 Ask me about **Python, Excel, Machine Learning, or Data Visualization**.
